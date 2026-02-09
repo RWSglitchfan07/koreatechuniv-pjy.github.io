@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="Screenshot 2026-02-09 14-37-38" src="https://github.com/user-attachments/assets/9c1749b4-9df9-4fb3-8503-2313af3b0ca5" /># koreatechuniv-pjy.github.io
+# koreatechuniv-pjy.github.io
 **한국기술교육대학교 디자인공학과 신입생 박준영 학생의 과제를 위해 만들어낸 Github입니다.**
 
 안녕하십니까, 한국기술교육대학교 디자인공학과 신입생 박준영입니다.
