@@ -10,6 +10,7 @@
 <img width="1920" height="1080" alt="Screenshot 2026-02-09 14-37-38" src="https://github.com/user-attachments/assets/02549ea1-4eef-4f8c-8844-049cf9c855ba" />
 **Trainz Railroad Simulator 2022에서**
 
+
 저는 원래 기차모형만 만들던 철도 동호인이었습니다.
 하지만 SNS에서 저랑 같은 사람들을 만나보고 유튜브에서 저의 재능을 자랑해보고 싶어서 영상들을 올리기 시작했습니다.
 3D 모델링 활동을 시작한지는 2022년부터 시작해 3~4년을 해왔습니다. 
